@@ -1,5 +1,5 @@
 {
-  "name": "lavrentiev/yii2-toastr",
+  "name": "maxodrom/yii2-toastr",
   "description": "Simple javascript toast notifications",
   "keywords": ["yii2", "extension", "jquery", "toastr", "notification"],
   "type": "yii2-extension",
@@ -17,7 +17,7 @@
     }
   ],
   "require": {
-    "yiisoft/yii2": "~2.0",
+    "yiisoft/yii2": "~2.0.14",
     "bower-asset/toastr": "^2.1"
   },
   "repositories": [
