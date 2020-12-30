@@ -1,5 +1,5 @@
 {
-  "name": "maxodrom/yii2-toastr",
+  "name": "maxodrom/yii2-toastr2",
   "description": "Simple javascript toast notifications",
   "keywords": ["yii2", "extension", "jquery", "toastr", "notification"],
   "type": "yii2-extension",
